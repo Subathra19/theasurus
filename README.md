@@ -3,7 +3,5 @@ It is a console application, made by using python programming language. It takes
 ## Prerequisites
 * Python 3.0
 ## How to Run app:
-* Clone the repo to your local machine.
-* Download data.son file
-* Import json
-* Then run [theasurus.py](https://github.com/Subathra19/py_theasurus/blob/main/theasurus.py)
+* Clone the repository to your local machine.
+* Run [theasurus.py](https://github.com/Subathra19/py_theasurus/blob/main/theasurus.py)
